@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis Using TextBlob and VADER | CodeAlpha Internship Task 4
+# 🧠 Sentiment Analysis Using TextBlob and VADER 
 
 This project presents a comprehensive sentiment analysis pipeline using Natural Language Processing (NLP) techniques and lexicon-based models—**TextBlob** and **VADER**—to classify short text data into **Positive**, **Negative**, or **Neutral** sentiments. The implementation simulates real-world applications like analyzing tweets, customer reviews, and public feedback to extract valuable emotional insights.
 
